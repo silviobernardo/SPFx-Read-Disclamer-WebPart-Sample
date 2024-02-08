@@ -1,7 +1,12 @@
-
 ## Sample goal
 
 This sample will check out if the current SharePoint user has already read the site disclamer
+
+
+## Used SharePoint Framework Version
+
+![version](https://img.shields.io/badge/version-1.18.2-green.svg)
+
 
 ## Applies to
 
