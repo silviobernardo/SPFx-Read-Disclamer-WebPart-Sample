@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "read-disclamer-web-part-client-side-solution",
+    "id": "acb66503-4a71-414b-aaf0-7ec9303b4a69",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Read Disclamer"
+      },
+      "longDescription": {
+        "default": "Read Disclamer"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Read Disclamer WebPart Feature",
+        "description": "The feature that activates elements of the read-disclamer-web-part solution.",
+        "id": "1be064af-16ea-4361-b30b-9402bceeaba1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/read-disclamer-web-part.sppkg"
+  }
+}
