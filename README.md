@@ -18,7 +18,7 @@ This sample will check out if the current SharePoint user has already read the s
 ## HOW TO RUN
 
 1. Open repository folder on Visual Studio Code
-2. Go to "config/serve.json" file and uptate "initialPage" value to your SharePoint URL (for test purposes it's recommended to keep "/_layouts/workbench.aspx" last part of URL)
+2. Go to "config/serve.json" file and update "initialPage" value to your SharePoint URL (for test purposes it's recommended to keep "/_layouts/workbench.aspx" last part of URL)
 3. Make sure you have at least one SharePoint list created (it only has to contains the Title column) where WebPart will read and write
 4. Open a terminal
 5. Run "npm install"
